@@ -97,3 +97,4 @@ app.get('/api/protected', (req, res) => {
         res.json({ message: 'Protected data', userId: decoded.id });
     });
 });
+module.exports = app;
