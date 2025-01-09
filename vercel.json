@@ -13,7 +13,7 @@
         }
     ],
     "env": {
-        "MONGODB_URI": "mongodb+srv://23pwbcs0997:04w7XliCiq7sqJ8h@assingment.orytd.mongodb.net/",
+        "MONGODB_URI": "mongodb+srv://23pwbcs0997:04w7XliCiq7sqJ8h@assingment.orytd.mongodb.net/?retryWrites=true&w=majority&appName=Assingment",
         "JWT_SECRET": "4f8dbe227eaf6d9a7f78da9837fd8970fd1b0ee970b27c8487a9f89f78fd5d62@2031"
     }
 }
